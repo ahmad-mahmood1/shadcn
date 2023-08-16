@@ -23,7 +23,6 @@ const RoutesDirectory = () => {
       }
     >
       <Routes>
-        <Route path="/" element={TABLE_DEMO_PATH} />
         <Route
           path={LOGIN_PATH}
           element={
